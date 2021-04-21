@@ -3,3 +3,4 @@ As a beginner in machine learning, I'm taking up this challenge to improve my kn
 Day 1 - NumPy 
 Day 2 - NumPy
 Day 3 - NumPy
+Day 4 - Feature Scaling 
