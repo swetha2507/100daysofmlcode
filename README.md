@@ -4,3 +4,4 @@ Day 1 - NumPy
 Day 2 - NumPy
 Day 3 - NumPy
 Day 4 - Feature Scaling 
+Day 5 - The maximum absolute scaling & The min-max feature scaling
