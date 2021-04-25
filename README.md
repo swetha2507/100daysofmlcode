@@ -7,3 +7,4 @@ Day 4 - Feature Scaling
 Day 5 - The maximum absolute scaling & The min-max feature scaling
 Day 6 - z score method 
 Day 7 - Linear Regression
+Day 8 - Linear Regression
