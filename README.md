@@ -9,3 +9,4 @@ Day 6 - z score method
 Day 7 - Linear Regression
 Day 8 - Linear Regression
 Day 9 - Linear Regression
+Day 10 - Logistic Regression
