@@ -11,3 +11,4 @@ Day 8 - Linear Regression
 Day 9 - Linear Regression
 Day 10 - Logistic Regression
 Day 11 - Logistic Regression
+Day 12 - KNN 
