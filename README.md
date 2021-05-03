@@ -13,3 +13,6 @@ Day 10 - Logistic Regression
 Day 11 - Logistic Regression
 Day 12 - KNN 
 Day 13 - SVM
+Day 14 - SVM
+Day 15 - Naive Bayes 
+Day 16 - Naive Bayes
