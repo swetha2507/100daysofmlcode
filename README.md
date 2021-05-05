@@ -16,3 +16,5 @@ Day 13 - SVM
 Day 14 - SVM
 Day 15 - Naive Bayes 
 Day 16 - Naive Bayes
+Day 17 - Naive Bayes 
+Day 18 - decision tree
